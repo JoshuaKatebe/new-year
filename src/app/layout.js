@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Ba Gumugumu! 🦎 Happy New Year 2026",
-  description: "Is Rango a Gumugumu or a Chameleon? The debate continues into 2026... Nah, Rango is DEFINITELY a Gumugumu!",
+  description: "Is Rango a Gumugumu or a Chameleon?",
   icons: {
     icon: "/favicon.ico",
   },
